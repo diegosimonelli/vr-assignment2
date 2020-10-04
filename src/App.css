@@ -27,6 +27,11 @@
   color: white;
 }
 
+p {
+  width: 50%;
+  padding: 10px;
+}
+
 .App-link {
   color: #61dafb;
 }
