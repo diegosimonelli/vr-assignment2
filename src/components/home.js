@@ -21,7 +21,7 @@ export default class Home extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Experience preview on Youtube!
           </a>
         </header>
       </>
